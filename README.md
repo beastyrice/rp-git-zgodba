@@ -34,3 +34,5 @@ v ukazno vrstico napišete `nano datoteka.txt`, ne pa `` `nano datoteka.txt` ``.
 ## Zahvala
 
 Prvo verzijo te igre je pripravil [Patrik Žnidaršič](https://github.com/k3ap).
+
+## TO JE EDINI README.MD K GA MAM TKO DA UPAM DA JE PRAVI ZA DN :)
